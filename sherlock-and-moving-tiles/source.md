@@ -16,8 +16,12 @@ $${1}\leq{A}\leq{L^2}$$
 
 ## Solution
 ### Part 1
-do something
+
+![figure1][figure1]
+
 ### Part 2
 
 [source]: https://www.hackerrank.com/challenges/sherlock-and-moving-tiles
 [author]: https://www.hackerrank.com/darkshadows
+
+[figure1]: https://rkhullar.github.io/sherlock-and-moving-tiles/images/figure1.svg
