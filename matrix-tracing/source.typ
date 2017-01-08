@@ -96,7 +96,7 @@ $$
 |    3     |     $$O(M+N)$$      |        $$O(1)$$        |
 
 ## Notes
-In this problem the result is in mod _p_ but in real life it's probably more practical to know the real answer or the log of it. In that case we can might use the BigInteger class from Java.
+In this problem the result is in mod _p_ but in real life it's probably more practical to know the real answer or the log of it. In that case we can probably use the BigInteger class from Java.
 
 [source]: https://www.hackerrank.com/challenges/matrix-tracing
 [author]: https://www.hackerrank.com/dheeraj
