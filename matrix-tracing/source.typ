@@ -1,3 +1,8 @@
+---
+title: Matrix Tracing
+author: Rajan Khullar
+---
+
 # Matrix Tracing
 
 This problem was posted by [dheeraj][author] on [HackerRank][source].
@@ -77,12 +82,12 @@ $$
   \textbf{Ans} &= \frac{y}{x}        & \\
                &= {x^{-1}}\times{y}  & \\
                &= {x^{p-2}}\times{y} & \\
-               &                     & (\text{mod }p)
+               &                     & \pmod{p}
 \end{align*}
 $$
 
 $$
-\textbf{Ans} \ (\text{mod }p) = 
+\textbf{Ans} \pmod{p} = 
 [{(m-1)!}\times{(n-1)!]^{p-2}}\times{(m+n-2)!}
 $$
 

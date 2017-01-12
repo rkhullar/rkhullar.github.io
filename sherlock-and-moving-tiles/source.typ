@@ -1,3 +1,8 @@
+---
+title: Sherlock and Moving Tiles
+author: Rajan Khullar
+---
+
 # Sherlock and Moving Tiles
 
 This problem was posted by [darkshadows][author] on [HackerRank][source].
